@@ -1,0 +1,74 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap"); */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 36px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 75px;
+  font-family: "Lexend", sans-serif;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  text-align: center;
+}
+p,
+li {
+  color: rgb(73, 73, 73);
+  font-size: 14px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  /* background-color: red; */
+  align-items: center;
+  justify-content: center;
+  max-width: 550px;
+  padding: 20px;
+}
+section {
+  display: inherit;
+  flex-direction: column;
+  gap: 18px;
+}
+hr {
+  background-color: rgb(72, 72, 72);
+  height: px;
+  width: 100%;
+}
+span {
+  font-weight: bold;
+}
+.first-anchor {
+  color: rgb(72, 72, 247);
+}
+section ul,
+ol {
+  margin-left: 16px;
+}
+ul li,
+ol li {
+  line-height: 35px;
+}
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 16px;
+  color: rgb(55, 65, 81);
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: bluei;
+}
