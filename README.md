@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://att-avotra.github.io/simple-faq-question">
+    <a href="https://simple-faq-question-theta.vercel.app/">
       Demo
     </a>
     <span> | </span>
